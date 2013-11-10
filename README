@@ -4,8 +4,10 @@ PGP permanent party app for a visualization of pgp WOT
 
 INSTALL
 -----------------
-depends: sudo aptitude install signing-party
-add the cron.sh to you crontab
+1. depends: sudo aptitude install signing-party
+2. add the cron.sh to you crontab
+3. ansure that php can write on file chiavi
+	chmod a+w chiavi
 
 USE
 -----------------
