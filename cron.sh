@@ -9,7 +9,7 @@
 # See /LICENSE for more information.
 
 KEYDB=ninux.org
-SERV="--keyserver pgp.mit.edu --keyserver wwwkeys.eu.pgp.net"
+SERV="--keyserver pgp.mit.edu --keyserver keyserver.ubuntu.com"
 OPT=" --no-default-keyring --keyring $KEYDB $SERV"
 
 
