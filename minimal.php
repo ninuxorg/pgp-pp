@@ -6,7 +6,3 @@
 <img src="./ninux.org.png">
 </body>
 </html>
-
-
-
-

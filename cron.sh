@@ -25,7 +25,7 @@ for c in `cat ./chiavi`; do
 done
 echo "" > ./chiavi
 
-if [ -n $NEW_K ]; then
+if [ -z $NEW_K ]; then
 	exit 0;
 fi
 
