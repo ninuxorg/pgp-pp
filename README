@@ -1,3 +1,14 @@
 
-This code is sources of http://pgp.ninux.org
+PGP permanent party app for a visualization of pgp WOT
 
+
+INSTALL
+-----------------
+depends: sudo aptitude install signing-party
+add the cron.sh to you crontab
+
+USE
+-----------------
+1. Open the minimal.php pages to show the graph. 
+2. Spread the index.php link to add the users uid keys
+3. Enjoy!
